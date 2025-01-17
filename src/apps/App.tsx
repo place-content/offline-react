@@ -1,4 +1,4 @@
-import { NotOfflinePage } from "../pages/not-offline/Not-offline.page";
+import { NotOfflinePage } from "@/pages";
 
 export function App() {
   return <NotOfflinePage />;

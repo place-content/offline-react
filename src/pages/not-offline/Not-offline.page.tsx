@@ -1,4 +1,4 @@
-// not offline page 
+// not offline page
 // path: "{{ BASE_URL }}/"
 export function NotOfflinePage() {
   return (
