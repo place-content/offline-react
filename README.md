@@ -8,4 +8,3 @@ Service Worker를 활용하여 사용자가 네트워크 연결이 끊겼을 때
 - 오프라인 지원: offline.html 페이지를 캐싱하여 네트워크 연결이 없을 때 표시
 - 캐시 관리: Service Worker 활성화 시 이전 버전 캐시 제거
 
-<a href="https://velog.io/@kimkh05/service-worker#service-worker-lifecycle">블로그 URL</a>
